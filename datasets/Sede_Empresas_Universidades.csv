@@ -1,0 +1,1478 @@
+id_localizacao;id_matriculados;distrito;localidade;sede_nif;cod_universitario;estabelecimento;publico;privado;universitario;politecnico;id_inscritos
+1;3009119;Aveiro;Aveiro;504705610;300;Universidade de Aveiro;Publico;; ;Politecnico;3009119
+2;3009119;Aveiro;Aveiro;504825917;300;Universidade de Aveiro;Publico;; ;Politecnico;3009119
+3;3009119;Aveiro;Ílhavo;513266488;300;Universidade de Aveiro;Publico;; ;Politecnico;3009119
+4;10005;Braga;Barral;507107381;1000;Universidade do Minho;Publico;;Universitario;;10005
+5;10005;Braga;Braga;501854371;1000;Universidade do Minho;Publico;;Universitario;;10005
+6;13009119;Funchal;Funchal;502064200;1300;Universidade da Madeira;Publico;;Universitario;;13009119
+7;13009119;Funchal;Funchal;510336973;1300;Universidade da Madeira;Publico;;Universitario;;13009119
+8;31009119;Leiria;Leiria;501968326;3100;Instituto Politécnico de Leiria;Publico;; ;Politecnico;31009119
+9;9005;Lisboa;Amadora;501551557;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+10;9005;Lisboa;Amadora;503222364;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+11;9005;Lisboa;Amadora;506176142;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+12;9005;Lisboa;Carnaxide;505350173;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+13;9005;Lisboa;Carnaxide;510728189;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+14;9005;Lisboa;Linhó;502479418;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+15;9005;Lisboa;Linhó;503502537;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+16;9005;Lisboa;Linhó;503541320;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+17;9005;Lisboa;Lisboa;500068801;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+18;9005;Lisboa;Lisboa;500074372;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+19;9005;Lisboa;Lisboa;500366039;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+20;9005;Lisboa;Lisboa;501774360;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+21;9005;Lisboa;Lisboa;502443855;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+22;9005;Lisboa;Lisboa;502829257;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+23;9005;Lisboa;Lisboa;502980826;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+24;9005;Lisboa;Lisboa;503412031;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+25;9005;Lisboa;Lisboa;503470120;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+26;9005;Lisboa;Lisboa;504079190;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+27;9005;Lisboa;Lisboa;504150014;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+28;9005;Lisboa;Lisboa;504272179;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+29;9005;Lisboa;Lisboa;504551221;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+30;9005;Lisboa;Lisboa;504857312;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+31;9005;Lisboa;Lisboa;505107546;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+32;9005;Lisboa;Lisboa;505116812;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+33;9005;Lisboa;Lisboa;505128985;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+34;9005;Lisboa;Lisboa;505205939;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+35;9005;Lisboa;Lisboa;505377691;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+36;9005;Lisboa;Lisboa;506204650;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+37;9005;Lisboa;Lisboa;506360237;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+38;9005;Lisboa;Lisboa;506396010;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+39;9005;Lisboa;Lisboa;507117336;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+40;9005;Lisboa;Lisboa;507246152;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+41;9005;Lisboa;Lisboa;507431073;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+42;9005;Lisboa;Lisboa;507969332;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+43;9005;Lisboa;Lisboa;508069491;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+44;9005;Lisboa;Lisboa;508123585;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+45;9005;Lisboa;Lisboa;508202531;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+46;9005;Lisboa;Lisboa;508453488;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+47;9005;Lisboa;Lisboa;508823617;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+48;9005;Lisboa;Lisboa;508966752;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+49;9005;Lisboa;Lisboa;509364730;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+50;9005;Lisboa;Lisboa;510070833;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+51;9005;Lisboa;Lisboa;510303811;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+52;9005;Lisboa;Lisboa;510722920;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+53;9005;Lisboa;Lisboa;510830536;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+54;9005;Lisboa;Lisboa;510852254;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+55;9005;Lisboa;Lisboa;513063145;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+56;9005;Lisboa;Lisboa;513418210;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+57;9005;Lisboa;Lisboa;514139927;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+58;9005;Lisboa;Lisboa;980540488;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+59;9005;Lisboa;Lisboa;980595304;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+60;9005;Lisboa;Miraflores;503882887;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+61;9005;Lisboa;Miraflores;507678672;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+62;9005;Lisboa;Odivelas;505187299;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+63;9005;Lisboa;Pontinha;503670693;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+64;9005;Lisboa;Porto Salvo;502186771;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+65;9005;Lisboa;Porto Salvo;504727060;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+66;9005;Lisboa;Porto Salvo;504761013;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+67;9005;Lisboa;Porto Salvo;510480209;900;Universidade Nova de Lisboa;Publico;;Universitario;;9005
+68;43508286;Lisboa;Amadora;501551557;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+69;43508286;Lisboa;Amadora;503222364;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+70;43508286;Lisboa;Amadora;506176142;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+71;43508286;Lisboa;Carnaxide;505350173;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+72;43508286;Lisboa;Carnaxide;510728189;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+73;43508286;Lisboa;Linhó;502479418;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+74;43508286;Lisboa;Linhó;503502537;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+75;43508286;Lisboa;Linhó;503541320;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+76;43508286;Lisboa;Lisboa;500068801;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+77;43508286;Lisboa;Lisboa;500074372;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+78;43508286;Lisboa;Lisboa;500366039;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+79;43508286;Lisboa;Lisboa;501774360;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+80;43508286;Lisboa;Lisboa;502443855;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+81;43508286;Lisboa;Lisboa;502829257;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+82;43508286;Lisboa;Lisboa;502980826;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+83;43508286;Lisboa;Lisboa;503412031;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+84;43508286;Lisboa;Lisboa;503470120;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+85;43508286;Lisboa;Lisboa;504079190;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+86;43508286;Lisboa;Lisboa;504150014;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+87;43508286;Lisboa;Lisboa;504272179;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+88;43508286;Lisboa;Lisboa;504551221;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+89;43508286;Lisboa;Lisboa;504857312;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+90;43508286;Lisboa;Lisboa;505107546;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+91;43508286;Lisboa;Lisboa;505116812;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+92;43508286;Lisboa;Lisboa;505128985;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+93;43508286;Lisboa;Lisboa;505205939;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+94;43508286;Lisboa;Lisboa;505377691;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+95;43508286;Lisboa;Lisboa;506204650;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+96;43508286;Lisboa;Lisboa;506360237;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+97;43508286;Lisboa;Lisboa;506396010;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+98;43508286;Lisboa;Lisboa;507117336;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+99;43508286;Lisboa;Lisboa;507246152;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+100;43508286;Lisboa;Lisboa;507431073;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+101;43508286;Lisboa;Lisboa;507969332;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+102;43508286;Lisboa;Lisboa;508069491;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+103;43508286;Lisboa;Lisboa;508123585;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+104;43508286;Lisboa;Lisboa;508202531;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+105;43508286;Lisboa;Lisboa;508453488;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+106;43508286;Lisboa;Lisboa;508823617;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+107;43508286;Lisboa;Lisboa;508966752;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+108;43508286;Lisboa;Lisboa;509364730;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+109;43508286;Lisboa;Lisboa;510070833;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+110;43508286;Lisboa;Lisboa;510303811;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+111;43508286;Lisboa;Lisboa;510722920;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+112;43508286;Lisboa;Lisboa;510830536;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+113;43508286;Lisboa;Lisboa;510852254;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+114;43508286;Lisboa;Lisboa;513063145;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+115;43508286;Lisboa;Lisboa;513418210;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+116;43508286;Lisboa;Lisboa;514139927;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+117;43508286;Lisboa;Lisboa;980540488;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+118;43508286;Lisboa;Lisboa;980595304;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+119;43508286;Lisboa;Miraflores;503882887;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+120;43508286;Lisboa;Miraflores;507678672;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+121;43508286;Lisboa;Odivelas;505187299;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+122;43508286;Lisboa;Pontinha;503670693;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+123;43508286;Lisboa;Porto Salvo;502186771;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+124;43508286;Lisboa;Porto Salvo;504727060;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+125;43508286;Lisboa;Porto Salvo;504761013;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+126;43508286;Lisboa;Porto Salvo;510480209;4350;Universidade Europeia; ;Privado;Universitario;;43508286
+127;68008366;Lisboa;Amadora;501551557;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+128;68008366;Lisboa;Amadora;503222364;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+129;68008366;Lisboa;Amadora;506176142;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+130;68008366;Lisboa;Carnaxide;505350173;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+131;68008366;Lisboa;Carnaxide;510728189;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+132;68008366;Lisboa;Linhó;502479418;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+133;68008366;Lisboa;Linhó;503502537;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+134;68008366;Lisboa;Linhó;503541320;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+135;68008366;Lisboa;Lisboa;500068801;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+136;68008366;Lisboa;Lisboa;500074372;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+137;68008366;Lisboa;Lisboa;500366039;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+138;68008366;Lisboa;Lisboa;501774360;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+139;68008366;Lisboa;Lisboa;502443855;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+140;68008366;Lisboa;Lisboa;502829257;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+141;68008366;Lisboa;Lisboa;502980826;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+142;68008366;Lisboa;Lisboa;503412031;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+143;68008366;Lisboa;Lisboa;503470120;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+144;68008366;Lisboa;Lisboa;504079190;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+145;68008366;Lisboa;Lisboa;504150014;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+146;68008366;Lisboa;Lisboa;504272179;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+147;68008366;Lisboa;Lisboa;504551221;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+148;68008366;Lisboa;Lisboa;504857312;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+149;68008366;Lisboa;Lisboa;505107546;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+150;68008366;Lisboa;Lisboa;505116812;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+151;68008366;Lisboa;Lisboa;505128985;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+152;68008366;Lisboa;Lisboa;505205939;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+153;68008366;Lisboa;Lisboa;505377691;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+154;68008366;Lisboa;Lisboa;506204650;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+155;68008366;Lisboa;Lisboa;506360237;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+156;68008366;Lisboa;Lisboa;506396010;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+157;68008366;Lisboa;Lisboa;507117336;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+158;68008366;Lisboa;Lisboa;507246152;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+159;68008366;Lisboa;Lisboa;507431073;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+160;68008366;Lisboa;Lisboa;507969332;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+161;68008366;Lisboa;Lisboa;508069491;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+162;68008366;Lisboa;Lisboa;508123585;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+163;68008366;Lisboa;Lisboa;508202531;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+164;68008366;Lisboa;Lisboa;508453488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+165;68008366;Lisboa;Lisboa;508823617;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+166;68008366;Lisboa;Lisboa;508966752;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+167;68008366;Lisboa;Lisboa;509364730;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+168;68008366;Lisboa;Lisboa;510070833;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+169;68008366;Lisboa;Lisboa;510303811;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+170;68008366;Lisboa;Lisboa;510722920;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+171;68008366;Lisboa;Lisboa;510830536;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+172;68008366;Lisboa;Lisboa;510852254;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+173;68008366;Lisboa;Lisboa;513063145;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+174;68008366;Lisboa;Lisboa;513418210;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+175;68008366;Lisboa;Lisboa;514139927;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+176;68008366;Lisboa;Lisboa;980540488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+177;68008366;Lisboa;Lisboa;980595304;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+178;68008366;Lisboa;Miraflores;503882887;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+179;68008366;Lisboa;Miraflores;507678672;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+180;68008366;Lisboa;Odivelas;505187299;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+181;68008366;Lisboa;Pontinha;503670693;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+182;68008366;Lisboa;Porto Salvo;502186771;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+183;68008366;Lisboa;Porto Salvo;504727060;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+184;68008366;Lisboa;Porto Salvo;504761013;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+185;68008366;Lisboa;Porto Salvo;510480209;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68008366
+186;11009459;Porto;Leça do Balio;509834370;1100;Universidade do Porto;Publico;;Universitario;;11009459
+187;11009459;Porto;Maia;503961175;1100;Universidade do Porto;Publico;;Universitario;;11009459
+188;11009459;Porto;Maia;505089971;1100;Universidade do Porto;Publico;;Universitario;;11009459
+189;11009459;Porto;Matosinhos;506305716;1100;Universidade do Porto;Publico;;Universitario;;11009459
+190;11009459;Porto;Porto;501573704;1100;Universidade do Porto;Publico;;Universitario;;11009459
+191;11009459;Porto;Porto;507058917;1100;Universidade do Porto;Publico;;Universitario;;11009459
+192;11009459;Porto;Porto;507291727;1100;Universidade do Porto;Publico;;Universitario;;11009459
+193;11009459;Porto;Porto;509255310;1100;Universidade do Porto;Publico;;Universitario;;11009459
+194;11009459;Porto;Porto;510148301;1100;Universidade do Porto;Publico;;Universitario;;11009459
+195;11009459;Porto;Porto;513199560;1100;Universidade do Porto;Publico;;Universitario;;11009459
+196;11009459;Porto;Porto;513435344;1100;Universidade do Porto;Publico;;Universitario;;11009459
+197;11009459;Porto;Porto;513945342;1100;Universidade do Porto;Publico;;Universitario;;11009459
+198;11009459;Porto;Porto;980566797;1100;Universidade do Porto;Publico;;Universitario;;11009459
+199;313091191;Porto;Leça do Balio;509834370;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+200;313091191;Porto;Maia;503961175;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+201;313091191;Porto;Maia;505089971;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+202;313091191;Porto;Matosinhos;506305716;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+203;313091191;Porto;Porto;501573704;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+204;313091191;Porto;Porto;507058917;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+205;313091191;Porto;Porto;507291727;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+206;313091191;Porto;Porto;509255310;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+207;313091191;Porto;Porto;510148301;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+208;313091191;Porto;Porto;513199560;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+209;313091191;Porto;Porto;513435344;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+210;313091191;Porto;Porto;513945342;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+211;313091191;Porto;Porto;980566797;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091191
+212;4580137;Porto;Leça do Balio;509834370;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+213;4580137;Porto;Maia;503961175;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+214;4580137;Porto;Maia;505089971;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+215;4580137;Porto;Matosinhos;506305716;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+216;4580137;Porto;Porto;501573704;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+217;4580137;Porto;Porto;507058917;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+218;4580137;Porto;Porto;507291727;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+219;4580137;Porto;Porto;509255310;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+220;4580137;Porto;Porto;510148301;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+221;4580137;Porto;Porto;513199560;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+222;4580137;Porto;Porto;513435344;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+223;4580137;Porto;Porto;513945342;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+224;4580137;Porto;Porto;980566797;4580;Instituto Politécnico da Maia; ;Privado; ;Politecnico;4580137
+225;43589185;Porto;Leça do Balio;509834370;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+226;43589185;Porto;Maia;503961175;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+227;43589185;Porto;Maia;505089971;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+228;43589185;Porto;Matosinhos;506305716;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+229;43589185;Porto;Porto;501573704;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+230;43589185;Porto;Porto;507058917;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+231;43589185;Porto;Porto;507291727;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+232;43589185;Porto;Porto;509255310;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+233;43589185;Porto;Porto;510148301;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+234;43589185;Porto;Porto;513199560;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+235;43589185;Porto;Porto;513435344;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+236;43589185;Porto;Porto;513945342;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+237;43589185;Porto;Porto;980566797;4358;Instituto Universitário da Maia - ISMAI; ;Privado;Universitario;;43589185
+238;31109121;Lisboa;Amadora;501551557;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+239;31109121;Lisboa;Amadora;503222364;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+240;31109121;Lisboa;Amadora;506176142;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+241;31109121;Lisboa;Carnaxide;505350173;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+242;31109121;Lisboa;Carnaxide;510728189;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+243;31109121;Lisboa;Linhó;502479418;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+244;31109121;Lisboa;Linhó;503502537;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+245;31109121;Lisboa;Linhó;503541320;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+246;31109121;Lisboa;Lisboa;500068801;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+247;31109121;Lisboa;Lisboa;500074372;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+248;31109121;Lisboa;Lisboa;500366039;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+249;31109121;Lisboa;Lisboa;501774360;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+250;31109121;Lisboa;Lisboa;502443855;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+251;31109121;Lisboa;Lisboa;502829257;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+252;31109121;Lisboa;Lisboa;502980826;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+253;31109121;Lisboa;Lisboa;503412031;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+254;31109121;Lisboa;Lisboa;503470120;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+255;31109121;Lisboa;Lisboa;504079190;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+256;31109121;Lisboa;Lisboa;504150014;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+257;31109121;Lisboa;Lisboa;504272179;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+258;31109121;Lisboa;Lisboa;504551221;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+259;31109121;Lisboa;Lisboa;504857312;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+260;31109121;Lisboa;Lisboa;505107546;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+261;31109121;Lisboa;Lisboa;505116812;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+262;31109121;Lisboa;Lisboa;505128985;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+263;31109121;Lisboa;Lisboa;505205939;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+264;31109121;Lisboa;Lisboa;505377691;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+265;31109121;Lisboa;Lisboa;506204650;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+266;31109121;Lisboa;Lisboa;506360237;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+267;31109121;Lisboa;Lisboa;506396010;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+268;31109121;Lisboa;Lisboa;507117336;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+269;31109121;Lisboa;Lisboa;507246152;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+270;31109121;Lisboa;Lisboa;507431073;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+271;31109121;Lisboa;Lisboa;507969332;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+272;31109121;Lisboa;Lisboa;508069491;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+273;31109121;Lisboa;Lisboa;508123585;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+274;31109121;Lisboa;Lisboa;508202531;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+275;31109121;Lisboa;Lisboa;508453488;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+276;31109121;Lisboa;Lisboa;508823617;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+277;31109121;Lisboa;Lisboa;508966752;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+278;31109121;Lisboa;Lisboa;509364730;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+279;31109121;Lisboa;Lisboa;510070833;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+280;31109121;Lisboa;Lisboa;510303811;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+281;31109121;Lisboa;Lisboa;510722920;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+282;31109121;Lisboa;Lisboa;510830536;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+283;31109121;Lisboa;Lisboa;510852254;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+284;31109121;Lisboa;Lisboa;513063145;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+285;31109121;Lisboa;Lisboa;513418210;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+286;31109121;Lisboa;Lisboa;514139927;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+287;31109121;Lisboa;Lisboa;980540488;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+288;31109121;Lisboa;Lisboa;980595304;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+289;31109121;Lisboa;Miraflores;503882887;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+290;31109121;Lisboa;Miraflores;507678672;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+291;31109121;Lisboa;Odivelas;505187299;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+292;31109121;Lisboa;Pontinha;503670693;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+293;31109121;Lisboa;Porto Salvo;502186771;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+294;31109121;Lisboa;Porto Salvo;504727060;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+295;31109121;Lisboa;Porto Salvo;504761013;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+296;31109121;Lisboa;Porto Salvo;510480209;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;31109121
+297;27108147;Lisboa;Amadora;501551557;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+298;27108147;Lisboa;Amadora;503222364;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+299;27108147;Lisboa;Amadora;506176142;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+300;27108147;Lisboa;Carnaxide;505350173;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+301;27108147;Lisboa;Carnaxide;510728189;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+302;27108147;Lisboa;Linhó;502479418;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+303;27108147;Lisboa;Linhó;503502537;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+304;27108147;Lisboa;Linhó;503541320;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+305;27108147;Lisboa;Lisboa;500068801;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+306;27108147;Lisboa;Lisboa;500074372;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+307;27108147;Lisboa;Lisboa;500366039;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+308;27108147;Lisboa;Lisboa;501774360;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+309;27108147;Lisboa;Lisboa;502443855;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+310;27108147;Lisboa;Lisboa;502829257;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+311;27108147;Lisboa;Lisboa;502980826;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+312;27108147;Lisboa;Lisboa;503412031;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+313;27108147;Lisboa;Lisboa;503470120;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+314;27108147;Lisboa;Lisboa;504079190;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+315;27108147;Lisboa;Lisboa;504150014;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+316;27108147;Lisboa;Lisboa;504272179;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+317;27108147;Lisboa;Lisboa;504551221;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+318;27108147;Lisboa;Lisboa;504857312;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+319;27108147;Lisboa;Lisboa;505107546;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+320;27108147;Lisboa;Lisboa;505116812;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+321;27108147;Lisboa;Lisboa;505128985;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+322;27108147;Lisboa;Lisboa;505205939;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+323;27108147;Lisboa;Lisboa;505377691;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+324;27108147;Lisboa;Lisboa;506204650;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+325;27108147;Lisboa;Lisboa;506360237;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+326;27108147;Lisboa;Lisboa;506396010;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+327;27108147;Lisboa;Lisboa;507117336;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+328;27108147;Lisboa;Lisboa;507246152;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+329;27108147;Lisboa;Lisboa;507431073;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+330;27108147;Lisboa;Lisboa;507969332;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+331;27108147;Lisboa;Lisboa;508069491;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+332;27108147;Lisboa;Lisboa;508123585;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+333;27108147;Lisboa;Lisboa;508202531;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+334;27108147;Lisboa;Lisboa;508453488;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+335;27108147;Lisboa;Lisboa;508823617;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+336;27108147;Lisboa;Lisboa;508966752;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+337;27108147;Lisboa;Lisboa;509364730;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+338;27108147;Lisboa;Lisboa;510070833;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+339;27108147;Lisboa;Lisboa;510303811;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+340;27108147;Lisboa;Lisboa;510722920;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+341;27108147;Lisboa;Lisboa;510830536;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+342;27108147;Lisboa;Lisboa;510852254;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+343;27108147;Lisboa;Lisboa;513063145;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+344;27108147;Lisboa;Lisboa;513418210;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+345;27108147;Lisboa;Lisboa;514139927;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+346;27108147;Lisboa;Lisboa;980540488;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+347;27108147;Lisboa;Lisboa;980595304;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+348;27108147;Lisboa;Miraflores;503882887;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+349;27108147;Lisboa;Miraflores;507678672;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+350;27108147;Lisboa;Odivelas;505187299;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+351;27108147;Lisboa;Pontinha;503670693;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+352;27108147;Lisboa;Porto Salvo;502186771;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+353;27108147;Lisboa;Porto Salvo;504727060;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+354;27108147;Lisboa;Porto Salvo;504761013;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;;27108147
+355;27108147;Lisboa;Porto Salvo;510480209;2710;Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia; ;Privado;Universitario;28009119;27108147
+356;28009186;Lisboa;Amadora;501551557;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+357;28009186;Lisboa;Amadora;503222364;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+358;28009186;Lisboa;Amadora;506176142;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+359;28009186;Lisboa;Carnaxide;505350173;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+360;28009186;Lisboa;Carnaxide;510728189;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+361;28009186;Lisboa;Linhó;502479418;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+362;28009186;Lisboa;Linhó;503502537;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+363;28009186;Lisboa;Linhó;503541320;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+364;28009186;Lisboa;Lisboa;500068801;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+365;28009186;Lisboa;Lisboa;500074372;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+366;28009186;Lisboa;Lisboa;500366039;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+367;28009186;Lisboa;Lisboa;501774360;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+368;28009186;Lisboa;Lisboa;502443855;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+369;28009186;Lisboa;Lisboa;502829257;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+370;28009186;Lisboa;Lisboa;502980826;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+371;28009186;Lisboa;Lisboa;503412031;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+372;28009186;Lisboa;Lisboa;503470120;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+373;28009186;Lisboa;Lisboa;504079190;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+374;28009186;Lisboa;Lisboa;504150014;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+375;28009186;Lisboa;Lisboa;504272179;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+376;28009186;Lisboa;Lisboa;504551221;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+377;28009186;Lisboa;Lisboa;504857312;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+378;28009186;Lisboa;Lisboa;505107546;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+379;28009186;Lisboa;Lisboa;505116812;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+380;28009186;Lisboa;Lisboa;505128985;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+381;28009186;Lisboa;Lisboa;505205939;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+382;28009186;Lisboa;Lisboa;505377691;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+383;28009186;Lisboa;Lisboa;506204650;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+384;28009186;Lisboa;Lisboa;506360237;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+385;28009186;Lisboa;Lisboa;506396010;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+386;28009186;Lisboa;Lisboa;507117336;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+387;28009186;Lisboa;Lisboa;507246152;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+388;28009186;Lisboa;Lisboa;507431073;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+389;28009186;Lisboa;Lisboa;507969332;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+390;28009186;Lisboa;Lisboa;508069491;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+391;28009186;Lisboa;Lisboa;508123585;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+392;28009186;Lisboa;Lisboa;508202531;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+393;28009186;Lisboa;Lisboa;508453488;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+394;28009186;Lisboa;Lisboa;508823617;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+395;28009186;Lisboa;Lisboa;508966752;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+396;28009186;Lisboa;Lisboa;509364730;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+397;28009186;Lisboa;Lisboa;510070833;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+398;28009186;Lisboa;Lisboa;510303811;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+399;28009186;Lisboa;Lisboa;510722920;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+400;28009186;Lisboa;Lisboa;510830536;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+401;28009186;Lisboa;Lisboa;510852254;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+402;28009186;Lisboa;Lisboa;513063145;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+403;28009186;Lisboa;Lisboa;513418210;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+404;28009186;Lisboa;Lisboa;514139927;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+405;28009186;Lisboa;Lisboa;980540488;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+406;28009186;Lisboa;Lisboa;980595304;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+407;28009186;Lisboa;Miraflores;503882887;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+408;28009186;Lisboa;Miraflores;507678672;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+409;28009186;Lisboa;Odivelas;505187299;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+410;28009186;Lisboa;Pontinha;503670693;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+411;28009186;Lisboa;Porto Salvo;502186771;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+412;28009186;Lisboa;Porto Salvo;504727060;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+413;28009186;Lisboa;Porto Salvo;504761013;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+414;28009186;Lisboa;Porto Salvo;510480209;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009186
+415;14009119;Lisboa;Amadora;501551557;1400;Universidade Aberta;Publico;;Universitario;;14009119
+416;14009119;Lisboa;Amadora;503222364;1400;Universidade Aberta;Publico;;Universitario;;14009119
+417;14009119;Lisboa;Amadora;506176142;1400;Universidade Aberta;Publico;;Universitario;;14009119
+418;14009119;Lisboa;Carnaxide;505350173;1400;Universidade Aberta;Publico;;Universitario;;14009119
+419;14009119;Lisboa;Carnaxide;510728189;1400;Universidade Aberta;Publico;;Universitario;;14009119
+420;14009119;Lisboa;Linhó;502479418;1400;Universidade Aberta;Publico;;Universitario;;14009119
+421;14009119;Lisboa;Linhó;503502537;1400;Universidade Aberta;Publico;;Universitario;;14009119
+422;14009119;Lisboa;Linhó;503541320;1400;Universidade Aberta;Publico;;Universitario;;14009119
+423;14009119;Lisboa;Lisboa;500068801;1400;Universidade Aberta;Publico;;Universitario;;14009119
+424;14009119;Lisboa;Lisboa;500074372;1400;Universidade Aberta;Publico;;Universitario;;14009119
+425;14009119;Lisboa;Lisboa;500366039;1400;Universidade Aberta;Publico;;Universitario;;14009119
+426;14009119;Lisboa;Lisboa;501774360;1400;Universidade Aberta;Publico;;Universitario;;14009119
+427;14009119;Lisboa;Lisboa;502443855;1400;Universidade Aberta;Publico;;Universitario;;14009119
+428;14009119;Lisboa;Lisboa;502829257;1400;Universidade Aberta;Publico;;Universitario;;14009119
+429;14009119;Lisboa;Lisboa;502980826;1400;Universidade Aberta;Publico;;Universitario;;14009119
+430;14009119;Lisboa;Lisboa;503412031;1400;Universidade Aberta;Publico;;Universitario;;14009119
+431;14009119;Lisboa;Lisboa;503470120;1400;Universidade Aberta;Publico;;Universitario;;14009119
+432;14009119;Lisboa;Lisboa;504079190;1400;Universidade Aberta;Publico;;Universitario;;14009119
+433;14009119;Lisboa;Lisboa;504150014;1400;Universidade Aberta;Publico;;Universitario;;14009119
+434;14009119;Lisboa;Lisboa;504272179;1400;Universidade Aberta;Publico;;Universitario;;14009119
+435;14009119;Lisboa;Lisboa;504551221;1400;Universidade Aberta;Publico;;Universitario;;14009119
+436;14009119;Lisboa;Lisboa;504857312;1400;Universidade Aberta;Publico;;Universitario;;14009119
+437;14009119;Lisboa;Lisboa;505107546;1400;Universidade Aberta;Publico;;Universitario;;14009119
+438;14009119;Lisboa;Lisboa;505116812;1400;Universidade Aberta;Publico;;Universitario;;14009119
+439;14009119;Lisboa;Lisboa;505128985;1400;Universidade Aberta;Publico;;Universitario;;14009119
+440;14009119;Lisboa;Lisboa;505205939;1400;Universidade Aberta;Publico;;Universitario;;14009119
+441;14009119;Lisboa;Lisboa;505377691;1400;Universidade Aberta;Publico;;Universitario;;14009119
+442;14009119;Lisboa;Lisboa;506204650;1400;Universidade Aberta;Publico;;Universitario;;14009119
+443;14009119;Lisboa;Lisboa;506360237;1400;Universidade Aberta;Publico;;Universitario;;14009119
+444;14009119;Lisboa;Lisboa;506396010;1400;Universidade Aberta;Publico;;Universitario;;14009119
+445;14009119;Lisboa;Lisboa;507117336;1400;Universidade Aberta;Publico;;Universitario;;14009119
+446;14009119;Lisboa;Lisboa;507246152;1400;Universidade Aberta;Publico;;Universitario;;14009119
+447;14009119;Lisboa;Lisboa;507431073;1400;Universidade Aberta;Publico;;Universitario;;14009119
+448;14009119;Lisboa;Lisboa;507969332;1400;Universidade Aberta;Publico;;Universitario;;14009119
+449;14009119;Lisboa;Lisboa;508069491;1400;Universidade Aberta;Publico;;Universitario;;14009119
+450;14009119;Lisboa;Lisboa;508123585;1400;Universidade Aberta;Publico;;Universitario;;14009119
+451;14009119;Lisboa;Lisboa;508202531;1400;Universidade Aberta;Publico;;Universitario;;14009119
+452;14009119;Lisboa;Lisboa;508453488;1400;Universidade Aberta;Publico;;Universitario;;14009119
+453;14009119;Lisboa;Lisboa;508823617;1400;Universidade Aberta;Publico;;Universitario;;14009119
+454;14009119;Lisboa;Lisboa;508966752;1400;Universidade Aberta;Publico;;Universitario;;14009119
+455;14009119;Lisboa;Lisboa;509364730;1400;Universidade Aberta;Publico;;Universitario;;14009119
+456;14009119;Lisboa;Lisboa;510070833;1400;Universidade Aberta;Publico;;Universitario;;14009119
+457;14009119;Lisboa;Lisboa;510303811;1400;Universidade Aberta;Publico;;Universitario;;14009119
+458;14009119;Lisboa;Lisboa;510722920;1400;Universidade Aberta;Publico;;Universitario;;14009119
+459;14009119;Lisboa;Lisboa;510830536;1400;Universidade Aberta;Publico;;Universitario;;14009119
+460;14009119;Lisboa;Lisboa;510852254;1400;Universidade Aberta;Publico;;Universitario;;14009119
+461;14009119;Lisboa;Lisboa;513063145;1400;Universidade Aberta;Publico;;Universitario;;14009119
+462;14009119;Lisboa;Lisboa;513418210;1400;Universidade Aberta;Publico;;Universitario;;14009119
+463;14009119;Lisboa;Lisboa;514139927;1400;Universidade Aberta;Publico;;Universitario;;14009119
+464;14009119;Lisboa;Lisboa;980540488;1400;Universidade Aberta;Publico;;Universitario;;14009119
+465;14009119;Lisboa;Lisboa;980595304;1400;Universidade Aberta;Publico;;Universitario;;14009119
+466;14009119;Lisboa;Miraflores;503882887;1400;Universidade Aberta;Publico;;Universitario;;14009119
+467;14009119;Lisboa;Miraflores;507678672;1400;Universidade Aberta;Publico;;Universitario;;14009119
+468;14009119;Lisboa;Odivelas;505187299;1400;Universidade Aberta;Publico;;Universitario;;14009119
+469;14009119;Lisboa;Pontinha;503670693;1400;Universidade Aberta;Publico;;Universitario;;14009119
+470;14009119;Lisboa;Porto Salvo;502186771;1400;Universidade Aberta;Publico;;Universitario;;14009119
+471;14009119;Lisboa;Porto Salvo;504727060;1400;Universidade Aberta;Publico;;Universitario;;14009119
+472;14009119;Lisboa;Porto Salvo;504761013;1400;Universidade Aberta;Publico;;Universitario;;14009119
+473;14009119;Lisboa;Porto Salvo;510480209;1400;Universidade Aberta;Publico;;Universitario;;14009119
+474;21009119;Lisboa;Amadora;501551557;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+475;21009119;Lisboa;Amadora;503222364;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+476;21009119;Lisboa;Amadora;506176142;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+477;21009119;Lisboa;Carnaxide;505350173;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+478;21009119;Lisboa;Carnaxide;510728189;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+479;21009119;Lisboa;Linhó;502479418;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+480;21009119;Lisboa;Linhó;503502537;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+481;21009119;Lisboa;Linhó;503541320;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+482;21009119;Lisboa;Lisboa;500068801;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+483;21009119;Lisboa;Lisboa;500074372;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+484;21009119;Lisboa;Lisboa;500366039;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+485;21009119;Lisboa;Lisboa;501774360;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+486;21009119;Lisboa;Lisboa;502443855;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+487;21009119;Lisboa;Lisboa;502829257;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+488;21009119;Lisboa;Lisboa;502980826;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+489;21009119;Lisboa;Lisboa;503412031;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+490;21009119;Lisboa;Lisboa;503470120;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+491;21009119;Lisboa;Lisboa;504079190;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+492;21009119;Lisboa;Lisboa;504150014;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+493;21009119;Lisboa;Lisboa;504272179;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+494;21009119;Lisboa;Lisboa;504551221;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+495;21009119;Lisboa;Lisboa;504857312;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+496;21009119;Lisboa;Lisboa;505107546;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+497;21009119;Lisboa;Lisboa;505116812;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+498;21009119;Lisboa;Lisboa;505128985;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+499;21009119;Lisboa;Lisboa;505205939;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+500;21009119;Lisboa;Lisboa;505377691;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+501;21009119;Lisboa;Lisboa;506204650;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+502;21009119;Lisboa;Lisboa;506360237;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+503;21009119;Lisboa;Lisboa;506396010;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+504;21009119;Lisboa;Lisboa;507117336;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+505;21009119;Lisboa;Lisboa;507246152;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+506;21009119;Lisboa;Lisboa;507431073;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+507;21009119;Lisboa;Lisboa;507969332;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+508;21009119;Lisboa;Lisboa;508069491;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+509;21009119;Lisboa;Lisboa;508123585;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+510;21009119;Lisboa;Lisboa;508202531;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+511;21009119;Lisboa;Lisboa;508453488;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+512;21009119;Lisboa;Lisboa;508823617;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+513;21009119;Lisboa;Lisboa;508966752;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+514;21009119;Lisboa;Lisboa;509364730;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+515;21009119;Lisboa;Lisboa;510070833;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+516;21009119;Lisboa;Lisboa;510303811;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+517;21009119;Lisboa;Lisboa;510722920;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+518;21009119;Lisboa;Lisboa;510830536;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+519;21009119;Lisboa;Lisboa;510852254;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+520;21009119;Lisboa;Lisboa;513063145;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+521;21009119;Lisboa;Lisboa;513418210;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+522;21009119;Lisboa;Lisboa;514139927;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+523;21009119;Lisboa;Lisboa;980540488;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+524;21009119;Lisboa;Lisboa;980595304;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+525;21009119;Lisboa;Miraflores;503882887;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+526;21009119;Lisboa;Miraflores;507678672;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+527;21009119;Lisboa;Odivelas;505187299;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+528;21009119;Lisboa;Pontinha;503670693;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+529;21009119;Lisboa;Porto Salvo;502186771;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+530;21009119;Lisboa;Porto Salvo;504727060;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+531;21009119;Lisboa;Porto Salvo;504761013;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+532;21009119;Lisboa;Porto Salvo;510480209;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009119
+533;22009250;Lisboa;Amadora;501551557;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+534;22009250;Lisboa;Amadora;503222364;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+535;22009250;Lisboa;Amadora;506176142;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+536;22009250;Lisboa;Carnaxide;505350173;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+537;22009250;Lisboa;Carnaxide;510728189;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+538;22009250;Lisboa;Linhó;502479418;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+539;22009250;Lisboa;Linhó;503502537;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+540;22009250;Lisboa;Linhó;503541320;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+541;22009250;Lisboa;Lisboa;500068801;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+542;22009250;Lisboa;Lisboa;500074372;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+543;22009250;Lisboa;Lisboa;500366039;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+544;22009250;Lisboa;Lisboa;501774360;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+545;22009250;Lisboa;Lisboa;502443855;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+546;22009250;Lisboa;Lisboa;502829257;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+547;22009250;Lisboa;Lisboa;502980826;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+548;22009250;Lisboa;Lisboa;503412031;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+549;22009250;Lisboa;Lisboa;503470120;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+550;22009250;Lisboa;Lisboa;504079190;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+551;22009250;Lisboa;Lisboa;504150014;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+552;22009250;Lisboa;Lisboa;504272179;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+553;22009250;Lisboa;Lisboa;504551221;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+554;22009250;Lisboa;Lisboa;504857312;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+555;22009250;Lisboa;Lisboa;505107546;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+556;22009250;Lisboa;Lisboa;505116812;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+557;22009250;Lisboa;Lisboa;505128985;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+558;22009250;Lisboa;Lisboa;505205939;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+559;22009250;Lisboa;Lisboa;505377691;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+560;22009250;Lisboa;Lisboa;506204650;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+561;22009250;Lisboa;Lisboa;506360237;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+562;22009250;Lisboa;Lisboa;506396010;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+563;22009250;Lisboa;Lisboa;507117336;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+564;22009250;Lisboa;Lisboa;507246152;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+565;22009250;Lisboa;Lisboa;507431073;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+566;22009250;Lisboa;Lisboa;507969332;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+567;22009250;Lisboa;Lisboa;508069491;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+568;22009250;Lisboa;Lisboa;508123585;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+569;22009250;Lisboa;Lisboa;508202531;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+570;22009250;Lisboa;Lisboa;508453488;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+571;22009250;Lisboa;Lisboa;508823617;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+572;22009250;Lisboa;Lisboa;508966752;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+573;22009250;Lisboa;Lisboa;509364730;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+574;22009250;Lisboa;Lisboa;510070833;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+575;22009250;Lisboa;Lisboa;510303811;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+576;22009250;Lisboa;Lisboa;510722920;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+577;22009250;Lisboa;Lisboa;510830536;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+578;22009250;Lisboa;Lisboa;510852254;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+579;22009250;Lisboa;Lisboa;513063145;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+580;22009250;Lisboa;Lisboa;513418210;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+581;22009250;Lisboa;Lisboa;514139927;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+582;22009250;Lisboa;Lisboa;980540488;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+583;22009250;Lisboa;Lisboa;980595304;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+584;22009250;Lisboa;Miraflores;503882887;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+585;22009250;Lisboa;Miraflores;507678672;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+586;22009250;Lisboa;Odivelas;505187299;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+587;22009250;Lisboa;Pontinha;503670693;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+588;22009250;Lisboa;Porto Salvo;502186771;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+589;22009250;Lisboa;Porto Salvo;504727060;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+590;22009250;Lisboa;Porto Salvo;504761013;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+591;22009250;Lisboa;Porto Salvo;510480209;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+592;24009119;Lisboa;Amadora;501551557;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+593;24009119;Lisboa;Amadora;503222364;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+594;24009119;Lisboa;Amadora;506176142;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+595;24009119;Lisboa;Carnaxide;505350173;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+596;24009119;Lisboa;Carnaxide;510728189;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+597;24009119;Lisboa;Linhó;502479418;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+598;24009119;Lisboa;Linhó;503502537;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+599;24009119;Lisboa;Linhó;503541320;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+600;24009119;Lisboa;Lisboa;500068801;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+601;24009119;Lisboa;Lisboa;500074372;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+602;24009119;Lisboa;Lisboa;500366039;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+603;24009119;Lisboa;Lisboa;501774360;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+604;24009119;Lisboa;Lisboa;502443855;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+605;24009119;Lisboa;Lisboa;502829257;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+606;24009119;Lisboa;Lisboa;502980826;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+607;24009119;Lisboa;Lisboa;503412031;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+608;24009119;Lisboa;Lisboa;503470120;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+609;24009119;Lisboa;Lisboa;504079190;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+610;24009119;Lisboa;Lisboa;504150014;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+611;24009119;Lisboa;Lisboa;504272179;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+612;24009119;Lisboa;Lisboa;504551221;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+613;24009119;Lisboa;Lisboa;504857312;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+614;24009119;Lisboa;Lisboa;505107546;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+615;24009119;Lisboa;Lisboa;505116812;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+616;24009119;Lisboa;Lisboa;505128985;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+617;24009119;Lisboa;Lisboa;505205939;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+618;24009119;Lisboa;Lisboa;505377691;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+619;24009119;Lisboa;Lisboa;506204650;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+620;24009119;Lisboa;Lisboa;506360237;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+621;24009119;Lisboa;Lisboa;506396010;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+622;24009119;Lisboa;Lisboa;507117336;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+623;24009119;Lisboa;Lisboa;507246152;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+624;24009119;Lisboa;Lisboa;507431073;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+625;24009119;Lisboa;Lisboa;507969332;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+626;24009119;Lisboa;Lisboa;508069491;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+627;24009119;Lisboa;Lisboa;508123585;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+628;24009119;Lisboa;Lisboa;508202531;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+629;24009119;Lisboa;Lisboa;508453488;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+630;24009119;Lisboa;Lisboa;508823617;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+631;24009119;Lisboa;Lisboa;508966752;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+632;24009119;Lisboa;Lisboa;509364730;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+633;24009119;Lisboa;Lisboa;510070833;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+634;24009119;Lisboa;Lisboa;510303811;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+635;24009119;Lisboa;Lisboa;510722920;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+636;24009119;Lisboa;Lisboa;510830536;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+637;24009119;Lisboa;Lisboa;510852254;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+638;24009119;Lisboa;Lisboa;513063145;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+639;24009119;Lisboa;Lisboa;513418210;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+640;24009119;Lisboa;Lisboa;514139927;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+641;24009119;Lisboa;Lisboa;980540488;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+642;24009119;Lisboa;Lisboa;980595304;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+643;24009119;Lisboa;Miraflores;503882887;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+644;24009119;Lisboa;Miraflores;507678672;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+645;24009119;Lisboa;Odivelas;505187299;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+646;24009119;Lisboa;Pontinha;503670693;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+647;24009119;Lisboa;Porto Salvo;502186771;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+648;24009119;Lisboa;Porto Salvo;504727060;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+649;24009119;Lisboa;Porto Salvo;504761013;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+650;24009119;Lisboa;Porto Salvo;510480209;2400;Universidade Lusíada; ;Privado;Universitario;;24009119
+651;22009250;Porto;Leça do Balio;509834370;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+652;22009250;Porto;Maia;503961175;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+653;22009250;Porto;Maia;505089971;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+654;22009250;Porto;Matosinhos;506305716;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+655;22009250;Porto;Porto;501573704;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+656;22009250;Porto;Porto;507058917;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+657;22009250;Porto;Porto;507291727;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+658;22009250;Porto;Porto;509255310;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+659;22009250;Porto;Porto;510148301;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+660;22009250;Porto;Porto;513199560;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+661;22009250;Porto;Porto;513435344;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+662;22009250;Porto;Porto;513945342;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+663;22009250;Porto;Porto;980566797;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+664;24059547;Porto;Leça do Balio;509834370;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+665;24059547;Porto;Maia;503961175;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+666;24059547;Porto;Maia;505089971;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+667;24059547;Porto;Matosinhos;506305716;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+668;24059547;Porto;Porto;501573704;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+669;24059547;Porto;Porto;507058917;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+670;24059547;Porto;Porto;507291727;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+671;24059547;Porto;Porto;509255310;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+672;24059547;Porto;Porto;510148301;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+673;24059547;Porto;Porto;513199560;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+674;24059547;Porto;Porto;513435344;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+675;24059547;Porto;Porto;513945342;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+676;24059547;Porto;Porto;980566797;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+677;25009185;Porto;Leça do Balio;509834370;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+678;25009185;Porto;Maia;503961175;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+679;25009185;Porto;Maia;505089971;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+680;25009185;Porto;Matosinhos;506305716;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+681;25009185;Porto;Porto;501573704;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+682;25009185;Porto;Porto;507058917;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+683;25009185;Porto;Porto;507291727;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+684;25009185;Porto;Porto;509255310;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+685;25009185;Porto;Porto;510148301;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+686;25009185;Porto;Porto;513199560;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+687;25009185;Porto;Porto;513435344;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+688;25009185;Porto;Porto;513945342;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+689;25009185;Porto;Porto;980566797;2500;Universidade Portucalense Infante D. Henrique; ;Privado;Universitario;;25009185
+690;27509119;Porto;Leça do Balio;509834370;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+691;27509119;Porto;Maia;503961175;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+692;27509119;Porto;Maia;505089971;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+693;27509119;Porto;Matosinhos;506305716;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+694;27509119;Porto;Porto;501573704;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+695;27509119;Porto;Porto;507058917;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+696;27509119;Porto;Porto;507291727;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+697;27509119;Porto;Porto;509255310;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+698;27509119;Porto;Porto;510148301;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+699;27509119;Porto;Porto;513199560;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+700;27509119;Porto;Porto;513435344;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+701;27509119;Porto;Porto;513945342;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+702;27509119;Porto;Porto;980566797;2750;Universidade Fernando Pessoa; ;Privado;Universitario;;27509119
+703;22009250;Braga;Barral;507107381;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+704;22009250;Braga;Braga;501854371;2200;Universidade Católica Portuguesa; ;Privado;Universitario;;22009250
+705;24059547;Braga;Barral;507107381;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+706;24059547;Braga;Braga;501854371;2405;Universidade Lusíada - Norte; ;Privado;Universitario;;24059547
+707;3030181;Braga;Barral;507107381;3030;Instituto Politécnico do Cávado e do Ave;Publico;; ;Politecnico;3030181
+708;3030181;Braga;Braga;501854371;3030;Instituto Politécnico do Cávado e do Ave;Publico;; ;Politecnico;3030181
+709;3009215;Aveiro;Aveiro;504705610;300;Universidade de Aveiro;Publico;; ;Politecnico;3009215
+710;3009215;Aveiro;Aveiro;504825917;300;Universidade de Aveiro;Publico;; ;Politecnico;3009215
+711;3009215;Aveiro;Ílhavo;513266488;300;Universidade de Aveiro;Publico;; ;Politecnico;3009215
+712;3008016;Aveiro;Aveiro;504705610;300;Universidade de Aveiro;Publico;; ;Politecnico;3008016
+713;3008016;Aveiro;Aveiro;504825917;300;Universidade de Aveiro;Publico;; ;Politecnico;3008016
+714;3008016;Aveiro;Ílhavo;513266488;300;Universidade de Aveiro;Publico;; ;Politecnico;3008016
+715;9008259;Lisboa;Amadora;501551557;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+716;9008259;Lisboa;Amadora;503222364;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+717;9008259;Lisboa;Amadora;506176142;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+718;9008259;Lisboa;Carnaxide;505350173;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+719;9008259;Lisboa;Carnaxide;510728189;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+720;9008259;Lisboa;Linhó;502479418;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+721;9008259;Lisboa;Linhó;503502537;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+722;9008259;Lisboa;Linhó;503541320;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+723;9008259;Lisboa;Lisboa;500068801;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+724;9008259;Lisboa;Lisboa;500074372;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+725;9008259;Lisboa;Lisboa;500366039;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+726;9008259;Lisboa;Lisboa;501774360;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+727;9008259;Lisboa;Lisboa;502443855;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+728;9008259;Lisboa;Lisboa;502829257;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+729;9008259;Lisboa;Lisboa;502980826;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+730;9008259;Lisboa;Lisboa;503412031;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+731;9008259;Lisboa;Lisboa;503470120;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+732;9008259;Lisboa;Lisboa;504079190;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+733;9008259;Lisboa;Lisboa;504150014;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+734;9008259;Lisboa;Lisboa;504272179;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+735;9008259;Lisboa;Lisboa;504551221;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+736;9008259;Lisboa;Lisboa;504857312;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+737;9008259;Lisboa;Lisboa;505107546;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+738;9008259;Lisboa;Lisboa;505116812;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+739;9008259;Lisboa;Lisboa;505128985;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+740;9008259;Lisboa;Lisboa;505205939;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+741;9008259;Lisboa;Lisboa;505377691;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+742;9008259;Lisboa;Lisboa;506204650;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+743;9008259;Lisboa;Lisboa;506360237;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+744;9008259;Lisboa;Lisboa;506396010;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+745;9008259;Lisboa;Lisboa;507117336;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+746;9008259;Lisboa;Lisboa;507246152;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+747;9008259;Lisboa;Lisboa;507431073;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+748;9008259;Lisboa;Lisboa;507969332;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+749;9008259;Lisboa;Lisboa;508069491;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+750;9008259;Lisboa;Lisboa;508123585;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+751;9008259;Lisboa;Lisboa;508202531;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+752;9008259;Lisboa;Lisboa;508453488;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+753;9008259;Lisboa;Lisboa;508823617;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+754;9008259;Lisboa;Lisboa;508966752;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+755;9008259;Lisboa;Lisboa;509364730;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+756;9008259;Lisboa;Lisboa;510070833;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+757;9008259;Lisboa;Lisboa;510303811;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+758;9008259;Lisboa;Lisboa;510722920;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+759;9008259;Lisboa;Lisboa;510830536;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+760;9008259;Lisboa;Lisboa;510852254;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+761;9008259;Lisboa;Lisboa;513063145;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+762;9008259;Lisboa;Lisboa;513418210;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+763;9008259;Lisboa;Lisboa;514139927;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+764;9008259;Lisboa;Lisboa;980540488;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+765;9008259;Lisboa;Lisboa;980595304;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+766;9008259;Lisboa;Miraflores;503882887;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+767;9008259;Lisboa;Miraflores;507678672;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+768;9008259;Lisboa;Odivelas;505187299;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+769;9008259;Lisboa;Pontinha;503670693;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+770;9008259;Lisboa;Porto Salvo;502186771;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+771;9008259;Lisboa;Porto Salvo;504727060;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+772;9008259;Lisboa;Porto Salvo;504761013;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+773;9008259;Lisboa;Porto Salvo;510480209;900;Universidade Nova de Lisboa;Publico;;Universitario;;9008259
+774;10007;Braga;Barral;507107381;1000;Universidade do Minho;Publico;;Universitario;;10007
+775;10007;Braga;Braga;501854371;1000;Universidade do Minho;Publico;;Universitario;;10007
+776;31009885;Leiria;Leiria;501968326;3100;Instituto Politécnico de Leiria;Publico;; ;Politecnico;31009885
+777;311052;Lisboa;Amadora;501551557;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+778;311052;Lisboa;Amadora;503222364;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+779;311052;Lisboa;Amadora;506176142;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+780;311052;Lisboa;Carnaxide;505350173;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+781;311052;Lisboa;Carnaxide;510728189;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+782;311052;Lisboa;Linhó;502479418;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+783;311052;Lisboa;Linhó;503502537;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+784;311052;Lisboa;Linhó;503541320;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+785;311052;Lisboa;Lisboa;500068801;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+786;311052;Lisboa;Lisboa;500074372;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+787;311052;Lisboa;Lisboa;500366039;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+788;311052;Lisboa;Lisboa;501774360;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+789;311052;Lisboa;Lisboa;502443855;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+790;311052;Lisboa;Lisboa;502829257;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+791;311052;Lisboa;Lisboa;502980826;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+792;311052;Lisboa;Lisboa;503412031;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+793;311052;Lisboa;Lisboa;503470120;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+794;311052;Lisboa;Lisboa;504079190;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+795;311052;Lisboa;Lisboa;504150014;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+796;311052;Lisboa;Lisboa;504272179;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+797;311052;Lisboa;Lisboa;504551221;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+798;311052;Lisboa;Lisboa;504857312;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+799;311052;Lisboa;Lisboa;505107546;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+800;311052;Lisboa;Lisboa;505116812;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+801;311052;Lisboa;Lisboa;505128985;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+802;311052;Lisboa;Lisboa;505205939;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+803;311052;Lisboa;Lisboa;505377691;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+804;311052;Lisboa;Lisboa;506204650;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+805;311052;Lisboa;Lisboa;506360237;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+806;311052;Lisboa;Lisboa;506396010;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+807;311052;Lisboa;Lisboa;507117336;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+808;311052;Lisboa;Lisboa;507246152;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+809;311052;Lisboa;Lisboa;507431073;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+810;311052;Lisboa;Lisboa;507969332;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+811;311052;Lisboa;Lisboa;508069491;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+812;311052;Lisboa;Lisboa;508123585;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+813;311052;Lisboa;Lisboa;508202531;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+814;311052;Lisboa;Lisboa;508453488;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+815;311052;Lisboa;Lisboa;508823617;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+816;311052;Lisboa;Lisboa;508966752;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+817;311052;Lisboa;Lisboa;509364730;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+818;311052;Lisboa;Lisboa;510070833;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+819;311052;Lisboa;Lisboa;510303811;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+820;311052;Lisboa;Lisboa;510722920;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+821;311052;Lisboa;Lisboa;510830536;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+822;311052;Lisboa;Lisboa;510852254;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+823;311052;Lisboa;Lisboa;513063145;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+824;311052;Lisboa;Lisboa;513418210;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+825;311052;Lisboa;Lisboa;514139927;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+826;311052;Lisboa;Lisboa;980540488;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+827;311052;Lisboa;Lisboa;980595304;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+828;311052;Lisboa;Miraflores;503882887;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+829;311052;Lisboa;Miraflores;507678672;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+830;311052;Lisboa;Odivelas;505187299;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+831;311052;Lisboa;Pontinha;503670693;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+832;311052;Lisboa;Porto Salvo;502186771;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+833;311052;Lisboa;Porto Salvo;504727060;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+834;311052;Lisboa;Porto Salvo;504761013;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+835;311052;Lisboa;Porto Salvo;510480209;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;311052
+836;3110119;Lisboa;Amadora;501551557;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+837;3110119;Lisboa;Amadora;503222364;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+838;3110119;Lisboa;Amadora;506176142;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+839;3110119;Lisboa;Carnaxide;505350173;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+840;3110119;Lisboa;Carnaxide;510728189;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+841;3110119;Lisboa;Linhó;502479418;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+842;3110119;Lisboa;Linhó;503502537;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+843;3110119;Lisboa;Linhó;503541320;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+844;3110119;Lisboa;Lisboa;500068801;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+845;3110119;Lisboa;Lisboa;500074372;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+846;3110119;Lisboa;Lisboa;500366039;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+847;3110119;Lisboa;Lisboa;501774360;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+848;3110119;Lisboa;Lisboa;502443855;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+849;3110119;Lisboa;Lisboa;502829257;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+850;3110119;Lisboa;Lisboa;502980826;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+851;3110119;Lisboa;Lisboa;503412031;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+852;3110119;Lisboa;Lisboa;503470120;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+853;3110119;Lisboa;Lisboa;504079190;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+854;3110119;Lisboa;Lisboa;504150014;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+855;3110119;Lisboa;Lisboa;504272179;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+856;3110119;Lisboa;Lisboa;504551221;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+857;3110119;Lisboa;Lisboa;504857312;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+858;3110119;Lisboa;Lisboa;505107546;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+859;3110119;Lisboa;Lisboa;505116812;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+860;3110119;Lisboa;Lisboa;505128985;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+861;3110119;Lisboa;Lisboa;505205939;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+862;3110119;Lisboa;Lisboa;505377691;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+863;3110119;Lisboa;Lisboa;506204650;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+864;3110119;Lisboa;Lisboa;506360237;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+865;3110119;Lisboa;Lisboa;506396010;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+866;3110119;Lisboa;Lisboa;507117336;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+867;3110119;Lisboa;Lisboa;507246152;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+868;3110119;Lisboa;Lisboa;507431073;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+869;3110119;Lisboa;Lisboa;507969332;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+870;3110119;Lisboa;Lisboa;508069491;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+871;3110119;Lisboa;Lisboa;508123585;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+872;3110119;Lisboa;Lisboa;508202531;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+873;3110119;Lisboa;Lisboa;508453488;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+874;3110119;Lisboa;Lisboa;508823617;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+875;3110119;Lisboa;Lisboa;508966752;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+876;3110119;Lisboa;Lisboa;509364730;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+877;3110119;Lisboa;Lisboa;510070833;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+878;3110119;Lisboa;Lisboa;510303811;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+879;3110119;Lisboa;Lisboa;510722920;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+880;3110119;Lisboa;Lisboa;510830536;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+881;3110119;Lisboa;Lisboa;510852254;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+882;3110119;Lisboa;Lisboa;513063145;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+883;3110119;Lisboa;Lisboa;513418210;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+884;3110119;Lisboa;Lisboa;514139927;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+885;3110119;Lisboa;Lisboa;980540488;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+886;3110119;Lisboa;Lisboa;980595304;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+887;3110119;Lisboa;Miraflores;503882887;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+888;3110119;Lisboa;Miraflores;507678672;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+889;3110119;Lisboa;Odivelas;505187299;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+890;3110119;Lisboa;Pontinha;503670693;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+891;3110119;Lisboa;Porto Salvo;502186771;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+892;3110119;Lisboa;Porto Salvo;504727060;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+893;3110119;Lisboa;Porto Salvo;504761013;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+894;3110119;Lisboa;Porto Salvo;510480209;3110;Instituto Politécnico de Lisboa;Publico;; ;Politecnico;3110119
+895;31308288;Porto;Leça do Balio;509834370;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+896;31308288;Porto;Maia;503961175;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+897;31308288;Porto;Maia;505089971;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+898;31308288;Porto;Matosinhos;506305716;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+899;31308288;Porto;Porto;501573704;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+900;31308288;Porto;Porto;507058917;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+901;31308288;Porto;Porto;507291727;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+902;31308288;Porto;Porto;509255310;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+903;31308288;Porto;Porto;510148301;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+904;31308288;Porto;Porto;513199560;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+905;31308288;Porto;Porto;513435344;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+906;31308288;Porto;Porto;513945342;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+907;31308288;Porto;Porto;980566797;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308288
+908;31308398;Porto;Leça do Balio;509834370;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+909;31308398;Porto;Maia;503961175;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+910;31308398;Porto;Maia;505089971;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+911;31308398;Porto;Matosinhos;506305716;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+912;31308398;Porto;Porto;501573704;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+913;31308398;Porto;Porto;507058917;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+914;31308398;Porto;Porto;507291727;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+915;31308398;Porto;Porto;509255310;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+916;31308398;Porto;Porto;510148301;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+917;31308398;Porto;Porto;513199560;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+918;31308398;Porto;Porto;513435344;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+919;31308398;Porto;Porto;513945342;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+920;31308398;Porto;Porto;980566797;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;31308398
+921;313091192;Porto;Leça do Balio;509834370;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+922;313091192;Porto;Maia;503961175;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+923;313091192;Porto;Maia;505089971;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+924;313091192;Porto;Matosinhos;506305716;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+925;313091192;Porto;Porto;501573704;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+926;313091192;Porto;Porto;507058917;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+927;313091192;Porto;Porto;507291727;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+928;313091192;Porto;Porto;509255310;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+929;313091192;Porto;Porto;510148301;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+930;313091192;Porto;Porto;513199560;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+931;313091192;Porto;Porto;513435344;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+932;313091192;Porto;Porto;513945342;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+933;313091192;Porto;Porto;980566797;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313091192
+934;313071;Porto;Leça do Balio;509834370;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+935;313071;Porto;Maia;503961175;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+936;313071;Porto;Maia;505089971;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+937;313071;Porto;Matosinhos;506305716;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+938;313071;Porto;Porto;501573704;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+939;313071;Porto;Porto;507058917;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+940;313071;Porto;Porto;507291727;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+941;313071;Porto;Porto;509255310;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+942;313071;Porto;Porto;510148301;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+943;313071;Porto;Porto;513199560;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+944;313071;Porto;Porto;513435344;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+945;313071;Porto;Porto;513945342;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+946;313071;Porto;Porto;980566797;3130;Instituto Politécnico do Porto;Publico;; ;Politecnico;313071
+947;68009098;Lisboa;Amadora;501551557;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+948;68009098;Lisboa;Amadora;503222364;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+949;68009098;Lisboa;Amadora;506176142;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+950;68009098;Lisboa;Carnaxide;505350173;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+951;68009098;Lisboa;Carnaxide;510728189;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+952;68009098;Lisboa;Linhó;502479418;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+953;68009098;Lisboa;Linhó;503502537;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+954;68009098;Lisboa;Linhó;503541320;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+955;68009098;Lisboa;Lisboa;500068801;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+956;68009098;Lisboa;Lisboa;500074372;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+957;68009098;Lisboa;Lisboa;500366039;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+958;68009098;Lisboa;Lisboa;501774360;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+959;68009098;Lisboa;Lisboa;502443855;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+960;68009098;Lisboa;Lisboa;502829257;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+961;68009098;Lisboa;Lisboa;502980826;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+962;68009098;Lisboa;Lisboa;503412031;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+963;68009098;Lisboa;Lisboa;503470120;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+964;68009098;Lisboa;Lisboa;504079190;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+965;68009098;Lisboa;Lisboa;504150014;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+966;68009098;Lisboa;Lisboa;504272179;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+967;68009098;Lisboa;Lisboa;504551221;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+968;68009098;Lisboa;Lisboa;504857312;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+969;68009098;Lisboa;Lisboa;505107546;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+970;68009098;Lisboa;Lisboa;505116812;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+971;68009098;Lisboa;Lisboa;505128985;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+972;68009098;Lisboa;Lisboa;505205939;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+973;68009098;Lisboa;Lisboa;505377691;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+974;68009098;Lisboa;Lisboa;506204650;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+975;68009098;Lisboa;Lisboa;506360237;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+976;68009098;Lisboa;Lisboa;506396010;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+977;68009098;Lisboa;Lisboa;507117336;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+978;68009098;Lisboa;Lisboa;507246152;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+979;68009098;Lisboa;Lisboa;507431073;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+980;68009098;Lisboa;Lisboa;507969332;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+981;68009098;Lisboa;Lisboa;508069491;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+982;68009098;Lisboa;Lisboa;508123585;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+983;68009098;Lisboa;Lisboa;508202531;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+984;68009098;Lisboa;Lisboa;508453488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+985;68009098;Lisboa;Lisboa;508823617;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+986;68009098;Lisboa;Lisboa;508966752;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+987;68009098;Lisboa;Lisboa;509364730;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+988;68009098;Lisboa;Lisboa;510070833;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+989;68009098;Lisboa;Lisboa;510303811;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+990;68009098;Lisboa;Lisboa;510722920;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+991;68009098;Lisboa;Lisboa;510830536;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+992;68009098;Lisboa;Lisboa;510852254;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+993;68009098;Lisboa;Lisboa;513063145;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+994;68009098;Lisboa;Lisboa;513418210;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+995;68009098;Lisboa;Lisboa;514139927;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+996;68009098;Lisboa;Lisboa;980540488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+997;68009098;Lisboa;Lisboa;980595304;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+998;68009098;Lisboa;Miraflores;503882887;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+999;68009098;Lisboa;Miraflores;507678672;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+1000;68009098;Lisboa;Odivelas;505187299;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+1001;68009098;Lisboa;Pontinha;503670693;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+1002;68009098;Lisboa;Porto Salvo;502186771;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+1003;68009098;Lisboa;Porto Salvo;504727060;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+1004;68009098;Lisboa;Porto Salvo;504761013;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+1005;68009098;Lisboa;Porto Salvo;510480209;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009098
+1006;68009119;Lisboa;Amadora;501551557;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1007;68009119;Lisboa;Amadora;503222364;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1008;68009119;Lisboa;Amadora;506176142;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1009;68009119;Lisboa;Carnaxide;505350173;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1010;68009119;Lisboa;Carnaxide;510728189;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1011;68009119;Lisboa;Linhó;502479418;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1012;68009119;Lisboa;Linhó;503502537;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1013;68009119;Lisboa;Linhó;503541320;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1014;68009119;Lisboa;Lisboa;500068801;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1015;68009119;Lisboa;Lisboa;500074372;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1016;68009119;Lisboa;Lisboa;500366039;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1017;68009119;Lisboa;Lisboa;501774360;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1018;68009119;Lisboa;Lisboa;502443855;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1019;68009119;Lisboa;Lisboa;502829257;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1020;68009119;Lisboa;Lisboa;502980826;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1021;68009119;Lisboa;Lisboa;503412031;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1022;68009119;Lisboa;Lisboa;503470120;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1023;68009119;Lisboa;Lisboa;504079190;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1024;68009119;Lisboa;Lisboa;504150014;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1025;68009119;Lisboa;Lisboa;504272179;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1026;68009119;Lisboa;Lisboa;504551221;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1027;68009119;Lisboa;Lisboa;504857312;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1028;68009119;Lisboa;Lisboa;505107546;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1029;68009119;Lisboa;Lisboa;505116812;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1030;68009119;Lisboa;Lisboa;505128985;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1031;68009119;Lisboa;Lisboa;505205939;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1032;68009119;Lisboa;Lisboa;505377691;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1033;68009119;Lisboa;Lisboa;506204650;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1034;68009119;Lisboa;Lisboa;506360237;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1035;68009119;Lisboa;Lisboa;506396010;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1036;68009119;Lisboa;Lisboa;507117336;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1037;68009119;Lisboa;Lisboa;507246152;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1038;68009119;Lisboa;Lisboa;507431073;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1039;68009119;Lisboa;Lisboa;507969332;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1040;68009119;Lisboa;Lisboa;508069491;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1041;68009119;Lisboa;Lisboa;508123585;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1042;68009119;Lisboa;Lisboa;508202531;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1043;68009119;Lisboa;Lisboa;508453488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1044;68009119;Lisboa;Lisboa;508823617;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1045;68009119;Lisboa;Lisboa;508966752;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1046;68009119;Lisboa;Lisboa;509364730;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1047;68009119;Lisboa;Lisboa;510070833;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1048;68009119;Lisboa;Lisboa;510303811;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1049;68009119;Lisboa;Lisboa;510722920;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1050;68009119;Lisboa;Lisboa;510830536;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1051;68009119;Lisboa;Lisboa;510852254;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1052;68009119;Lisboa;Lisboa;513063145;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1053;68009119;Lisboa;Lisboa;513418210;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1054;68009119;Lisboa;Lisboa;514139927;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1055;68009119;Lisboa;Lisboa;980540488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1056;68009119;Lisboa;Lisboa;980595304;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1057;68009119;Lisboa;Miraflores;503882887;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1058;68009119;Lisboa;Miraflores;507678672;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1059;68009119;Lisboa;Odivelas;505187299;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1060;68009119;Lisboa;Pontinha;503670693;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1061;68009119;Lisboa;Porto Salvo;502186771;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1062;68009119;Lisboa;Porto Salvo;504727060;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1063;68009119;Lisboa;Porto Salvo;504761013;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1064;68009119;Lisboa;Porto Salvo;510480209;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009119
+1065;68009189;Lisboa;Amadora;501551557;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1066;68009189;Lisboa;Amadora;503222364;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1067;68009189;Lisboa;Amadora;506176142;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1068;68009189;Lisboa;Carnaxide;505350173;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1069;68009189;Lisboa;Carnaxide;510728189;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1070;68009189;Lisboa;Linhó;502479418;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1071;68009189;Lisboa;Linhó;503502537;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1072;68009189;Lisboa;Linhó;503541320;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1073;68009189;Lisboa;Lisboa;500068801;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1074;68009189;Lisboa;Lisboa;500074372;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1075;68009189;Lisboa;Lisboa;500366039;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1076;68009189;Lisboa;Lisboa;501774360;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1077;68009189;Lisboa;Lisboa;502443855;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1078;68009189;Lisboa;Lisboa;502829257;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1079;68009189;Lisboa;Lisboa;502980826;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1080;68009189;Lisboa;Lisboa;503412031;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1081;68009189;Lisboa;Lisboa;503470120;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1082;68009189;Lisboa;Lisboa;504079190;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1083;68009189;Lisboa;Lisboa;504150014;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1084;68009189;Lisboa;Lisboa;504272179;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1085;68009189;Lisboa;Lisboa;504551221;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1086;68009189;Lisboa;Lisboa;504857312;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1087;68009189;Lisboa;Lisboa;505107546;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1088;68009189;Lisboa;Lisboa;505116812;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1089;68009189;Lisboa;Lisboa;505128985;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1090;68009189;Lisboa;Lisboa;505205939;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1091;68009189;Lisboa;Lisboa;505377691;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1092;68009189;Lisboa;Lisboa;506204650;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1093;68009189;Lisboa;Lisboa;506360237;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1094;68009189;Lisboa;Lisboa;506396010;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1095;68009189;Lisboa;Lisboa;507117336;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1096;68009189;Lisboa;Lisboa;507246152;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1097;68009189;Lisboa;Lisboa;507431073;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1098;68009189;Lisboa;Lisboa;507969332;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1099;68009189;Lisboa;Lisboa;508069491;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1100;68009189;Lisboa;Lisboa;508123585;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1101;68009189;Lisboa;Lisboa;508202531;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1102;68009189;Lisboa;Lisboa;508453488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1103;68009189;Lisboa;Lisboa;508823617;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1104;68009189;Lisboa;Lisboa;508966752;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1105;68009189;Lisboa;Lisboa;509364730;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1106;68009189;Lisboa;Lisboa;510070833;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1107;68009189;Lisboa;Lisboa;510303811;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1108;68009189;Lisboa;Lisboa;510722920;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1109;68009189;Lisboa;Lisboa;510830536;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1110;68009189;Lisboa;Lisboa;510852254;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1111;68009189;Lisboa;Lisboa;513063145;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1112;68009189;Lisboa;Lisboa;513418210;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1113;68009189;Lisboa;Lisboa;514139927;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1114;68009189;Lisboa;Lisboa;980540488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1115;68009189;Lisboa;Lisboa;980595304;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1116;68009189;Lisboa;Miraflores;503882887;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1117;68009189;Lisboa;Miraflores;507678672;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1118;68009189;Lisboa;Odivelas;505187299;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1119;68009189;Lisboa;Pontinha;503670693;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1120;68009189;Lisboa;Porto Salvo;502186771;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1121;68009189;Lisboa;Porto Salvo;504727060;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1122;68009189;Lisboa;Porto Salvo;504761013;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1123;68009189;Lisboa;Porto Salvo;510480209;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009189
+1124;68009885;Lisboa;Amadora;501551557;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1125;68009885;Lisboa;Amadora;503222364;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1126;68009885;Lisboa;Amadora;506176142;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1127;68009885;Lisboa;Carnaxide;505350173;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1128;68009885;Lisboa;Carnaxide;510728189;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1129;68009885;Lisboa;Linhó;502479418;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1130;68009885;Lisboa;Linhó;503502537;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1131;68009885;Lisboa;Linhó;503541320;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1132;68009885;Lisboa;Lisboa;500068801;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1133;68009885;Lisboa;Lisboa;500074372;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1134;68009885;Lisboa;Lisboa;500366039;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1135;68009885;Lisboa;Lisboa;501774360;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1136;68009885;Lisboa;Lisboa;502443855;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1137;68009885;Lisboa;Lisboa;502829257;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1138;68009885;Lisboa;Lisboa;502980826;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1139;68009885;Lisboa;Lisboa;503412031;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1140;68009885;Lisboa;Lisboa;503470120;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1141;68009885;Lisboa;Lisboa;504079190;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1142;68009885;Lisboa;Lisboa;504150014;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1143;68009885;Lisboa;Lisboa;504272179;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1144;68009885;Lisboa;Lisboa;504551221;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1145;68009885;Lisboa;Lisboa;504857312;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1146;68009885;Lisboa;Lisboa;505107546;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1147;68009885;Lisboa;Lisboa;505116812;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1148;68009885;Lisboa;Lisboa;505128985;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1149;68009885;Lisboa;Lisboa;505205939;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1150;68009885;Lisboa;Lisboa;505377691;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1151;68009885;Lisboa;Lisboa;506204650;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1152;68009885;Lisboa;Lisboa;506360237;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1153;68009885;Lisboa;Lisboa;506396010;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1154;68009885;Lisboa;Lisboa;507117336;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1155;68009885;Lisboa;Lisboa;507246152;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1156;68009885;Lisboa;Lisboa;507431073;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1157;68009885;Lisboa;Lisboa;507969332;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1158;68009885;Lisboa;Lisboa;508069491;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1159;68009885;Lisboa;Lisboa;508123585;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1160;68009885;Lisboa;Lisboa;508202531;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1161;68009885;Lisboa;Lisboa;508453488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1162;68009885;Lisboa;Lisboa;508823617;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1163;68009885;Lisboa;Lisboa;508966752;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1164;68009885;Lisboa;Lisboa;509364730;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1165;68009885;Lisboa;Lisboa;510070833;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1166;68009885;Lisboa;Lisboa;510303811;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1167;68009885;Lisboa;Lisboa;510722920;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1168;68009885;Lisboa;Lisboa;510830536;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1169;68009885;Lisboa;Lisboa;510852254;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1170;68009885;Lisboa;Lisboa;513063145;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1171;68009885;Lisboa;Lisboa;513418210;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1172;68009885;Lisboa;Lisboa;514139927;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1173;68009885;Lisboa;Lisboa;980540488;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1174;68009885;Lisboa;Lisboa;980595304;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1175;68009885;Lisboa;Miraflores;503882887;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1176;68009885;Lisboa;Miraflores;507678672;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1177;68009885;Lisboa;Odivelas;505187299;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1178;68009885;Lisboa;Pontinha;503670693;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1179;68009885;Lisboa;Porto Salvo;502186771;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1180;68009885;Lisboa;Porto Salvo;504727060;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1181;68009885;Lisboa;Porto Salvo;504761013;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1182;68009885;Lisboa;Porto Salvo;510480209;6800;ISCTE - Instituto Universitário de Lisboa;Publico;;Universitario;;68009885
+1183;43509119;Lisboa;Amadora;501551557;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1184;43509119;Lisboa;Amadora;503222364;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1185;43509119;Lisboa;Amadora;506176142;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1186;43509119;Lisboa;Carnaxide;505350173;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1187;43509119;Lisboa;Carnaxide;510728189;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1188;43509119;Lisboa;Linhó;502479418;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1189;43509119;Lisboa;Linhó;503502537;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1190;43509119;Lisboa;Linhó;503541320;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1191;43509119;Lisboa;Lisboa;500068801;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1192;43509119;Lisboa;Lisboa;500074372;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1193;43509119;Lisboa;Lisboa;500366039;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1194;43509119;Lisboa;Lisboa;501774360;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1195;43509119;Lisboa;Lisboa;502443855;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1196;43509119;Lisboa;Lisboa;502829257;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1197;43509119;Lisboa;Lisboa;502980826;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1198;43509119;Lisboa;Lisboa;503412031;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1199;43509119;Lisboa;Lisboa;503470120;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1200;43509119;Lisboa;Lisboa;504079190;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1201;43509119;Lisboa;Lisboa;504150014;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1202;43509119;Lisboa;Lisboa;504272179;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1203;43509119;Lisboa;Lisboa;504551221;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1204;43509119;Lisboa;Lisboa;504857312;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1205;43509119;Lisboa;Lisboa;505107546;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1206;43509119;Lisboa;Lisboa;505116812;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1207;43509119;Lisboa;Lisboa;505128985;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1208;43509119;Lisboa;Lisboa;505205939;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1209;43509119;Lisboa;Lisboa;505377691;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1210;43509119;Lisboa;Lisboa;506204650;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1211;43509119;Lisboa;Lisboa;506360237;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1212;43509119;Lisboa;Lisboa;506396010;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1213;43509119;Lisboa;Lisboa;507117336;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1214;43509119;Lisboa;Lisboa;507246152;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1215;43509119;Lisboa;Lisboa;507431073;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1216;43509119;Lisboa;Lisboa;507969332;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1217;43509119;Lisboa;Lisboa;508069491;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1218;43509119;Lisboa;Lisboa;508123585;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1219;43509119;Lisboa;Lisboa;508202531;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1220;43509119;Lisboa;Lisboa;508453488;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1221;43509119;Lisboa;Lisboa;508823617;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1222;43509119;Lisboa;Lisboa;508966752;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1223;43509119;Lisboa;Lisboa;509364730;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1224;43509119;Lisboa;Lisboa;510070833;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1225;43509119;Lisboa;Lisboa;510303811;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1226;43509119;Lisboa;Lisboa;510722920;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1227;43509119;Lisboa;Lisboa;510830536;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1228;43509119;Lisboa;Lisboa;510852254;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1229;43509119;Lisboa;Lisboa;513063145;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1230;43509119;Lisboa;Lisboa;513418210;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1231;43509119;Lisboa;Lisboa;514139927;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1232;43509119;Lisboa;Lisboa;980540488;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1233;43509119;Lisboa;Lisboa;980595304;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1234;43509119;Lisboa;Miraflores;503882887;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1235;43509119;Lisboa;Miraflores;507678672;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1236;43509119;Lisboa;Odivelas;505187299;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1237;43509119;Lisboa;Pontinha;503670693;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1238;43509119;Lisboa;Porto Salvo;502186771;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1239;43509119;Lisboa;Porto Salvo;504727060;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1240;43509119;Lisboa;Porto Salvo;504761013;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1241;43509119;Lisboa;Porto Salvo;510480209;4350;Universidade Europeia; ;Privado;Universitario;;43509119
+1242;43509186;Lisboa;Amadora;501551557;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1243;43509186;Lisboa;Amadora;503222364;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1244;43509186;Lisboa;Amadora;506176142;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1245;43509186;Lisboa;Carnaxide;505350173;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1246;43509186;Lisboa;Carnaxide;510728189;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1247;43509186;Lisboa;Linhó;502479418;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1248;43509186;Lisboa;Linhó;503502537;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1249;43509186;Lisboa;Linhó;503541320;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1250;43509186;Lisboa;Lisboa;500068801;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1251;43509186;Lisboa;Lisboa;500074372;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1252;43509186;Lisboa;Lisboa;500366039;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1253;43509186;Lisboa;Lisboa;501774360;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1254;43509186;Lisboa;Lisboa;502443855;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1255;43509186;Lisboa;Lisboa;502829257;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1256;43509186;Lisboa;Lisboa;502980826;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1257;43509186;Lisboa;Lisboa;503412031;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1258;43509186;Lisboa;Lisboa;503470120;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1259;43509186;Lisboa;Lisboa;504079190;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1260;43509186;Lisboa;Lisboa;504150014;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1261;43509186;Lisboa;Lisboa;504272179;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1262;43509186;Lisboa;Lisboa;504551221;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1263;43509186;Lisboa;Lisboa;504857312;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1264;43509186;Lisboa;Lisboa;505107546;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1265;43509186;Lisboa;Lisboa;505116812;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1266;43509186;Lisboa;Lisboa;505128985;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1267;43509186;Lisboa;Lisboa;505205939;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1268;43509186;Lisboa;Lisboa;505377691;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1269;43509186;Lisboa;Lisboa;506204650;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1270;43509186;Lisboa;Lisboa;506360237;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1271;43509186;Lisboa;Lisboa;506396010;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1272;43509186;Lisboa;Lisboa;507117336;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1273;43509186;Lisboa;Lisboa;507246152;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1274;43509186;Lisboa;Lisboa;507431073;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1275;43509186;Lisboa;Lisboa;507969332;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1276;43509186;Lisboa;Lisboa;508069491;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1277;43509186;Lisboa;Lisboa;508123585;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1278;43509186;Lisboa;Lisboa;508202531;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1279;43509186;Lisboa;Lisboa;508453488;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1280;43509186;Lisboa;Lisboa;508823617;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1281;43509186;Lisboa;Lisboa;508966752;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1282;43509186;Lisboa;Lisboa;509364730;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1283;43509186;Lisboa;Lisboa;510070833;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1284;43509186;Lisboa;Lisboa;510303811;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1285;43509186;Lisboa;Lisboa;510722920;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1286;43509186;Lisboa;Lisboa;510830536;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1287;43509186;Lisboa;Lisboa;510852254;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1288;43509186;Lisboa;Lisboa;513063145;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1289;43509186;Lisboa;Lisboa;513418210;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1290;43509186;Lisboa;Lisboa;514139927;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1291;43509186;Lisboa;Lisboa;980540488;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1292;43509186;Lisboa;Lisboa;980595304;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1293;43509186;Lisboa;Miraflores;503882887;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1294;43509186;Lisboa;Miraflores;507678672;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1295;43509186;Lisboa;Odivelas;505187299;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1296;43509186;Lisboa;Pontinha;503670693;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1297;43509186;Lisboa;Porto Salvo;502186771;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1298;43509186;Lisboa;Porto Salvo;504727060;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1299;43509186;Lisboa;Porto Salvo;504761013;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1300;43509186;Lisboa;Porto Salvo;510480209;4350;Universidade Europeia; ;Privado;Universitario;;43509186
+1301;2800119;Lisboa;Amadora;501551557;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1302;2800119;Lisboa;Amadora;503222364;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1303;2800119;Lisboa;Amadora;506176142;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1304;2800119;Lisboa;Carnaxide;505350173;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1305;2800119;Lisboa;Carnaxide;510728189;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1306;2800119;Lisboa;Linhó;502479418;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1307;2800119;Lisboa;Linhó;503502537;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1308;2800119;Lisboa;Linhó;503541320;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1309;2800119;Lisboa;Lisboa;500068801;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1310;2800119;Lisboa;Lisboa;500074372;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1311;2800119;Lisboa;Lisboa;500366039;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1312;2800119;Lisboa;Lisboa;501774360;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1313;2800119;Lisboa;Lisboa;502443855;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1314;2800119;Lisboa;Lisboa;502829257;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1315;2800119;Lisboa;Lisboa;502980826;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1316;2800119;Lisboa;Lisboa;503412031;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1317;2800119;Lisboa;Lisboa;503470120;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1318;2800119;Lisboa;Lisboa;504079190;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1319;2800119;Lisboa;Lisboa;504150014;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1320;2800119;Lisboa;Lisboa;504272179;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1321;2800119;Lisboa;Lisboa;504551221;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1322;2800119;Lisboa;Lisboa;504857312;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1323;2800119;Lisboa;Lisboa;505107546;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1324;2800119;Lisboa;Lisboa;505116812;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1325;2800119;Lisboa;Lisboa;505128985;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1326;2800119;Lisboa;Lisboa;505205939;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1327;2800119;Lisboa;Lisboa;505377691;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1328;2800119;Lisboa;Lisboa;506204650;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1329;2800119;Lisboa;Lisboa;506360237;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1330;2800119;Lisboa;Lisboa;506396010;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1331;2800119;Lisboa;Lisboa;507117336;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1332;2800119;Lisboa;Lisboa;507246152;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1333;2800119;Lisboa;Lisboa;507431073;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1334;2800119;Lisboa;Lisboa;507969332;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1335;2800119;Lisboa;Lisboa;508069491;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1336;2800119;Lisboa;Lisboa;508123585;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1337;2800119;Lisboa;Lisboa;508202531;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1338;2800119;Lisboa;Lisboa;508453488;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1339;2800119;Lisboa;Lisboa;508823617;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1340;2800119;Lisboa;Lisboa;508966752;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1341;2800119;Lisboa;Lisboa;509364730;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1342;2800119;Lisboa;Lisboa;510070833;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1343;2800119;Lisboa;Lisboa;510303811;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1344;2800119;Lisboa;Lisboa;510722920;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1345;2800119;Lisboa;Lisboa;510830536;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1346;2800119;Lisboa;Lisboa;510852254;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1347;2800119;Lisboa;Lisboa;513063145;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1348;2800119;Lisboa;Lisboa;513418210;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1349;2800119;Lisboa;Lisboa;514139927;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1350;2800119;Lisboa;Lisboa;980540488;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1351;2800119;Lisboa;Lisboa;980595304;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1352;2800119;Lisboa;Miraflores;503882887;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1353;2800119;Lisboa;Miraflores;507678672;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1354;2800119;Lisboa;Odivelas;505187299;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1355;2800119;Lisboa;Pontinha;503670693;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1356;2800119;Lisboa;Porto Salvo;502186771;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1357;2800119;Lisboa;Porto Salvo;504727060;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1358;2800119;Lisboa;Porto Salvo;504761013;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1359;2800119;Lisboa;Porto Salvo;510480209;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;2800119
+1360;28009119;Lisboa;Amadora;501551557;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1361;28009119;Lisboa;Amadora;503222364;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1362;28009119;Lisboa;Amadora;506176142;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1363;28009119;Lisboa;Carnaxide;505350173;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1364;28009119;Lisboa;Carnaxide;510728189;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1365;28009119;Lisboa;Linhó;502479418;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1366;28009119;Lisboa;Linhó;503502537;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1367;28009119;Lisboa;Linhó;503541320;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1368;28009119;Lisboa;Lisboa;500068801;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1369;28009119;Lisboa;Lisboa;500074372;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1370;28009119;Lisboa;Lisboa;500366039;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1371;28009119;Lisboa;Lisboa;501774360;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1372;28009119;Lisboa;Lisboa;502443855;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1373;28009119;Lisboa;Lisboa;502829257;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1374;28009119;Lisboa;Lisboa;502980826;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1375;28009119;Lisboa;Lisboa;503412031;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1376;28009119;Lisboa;Lisboa;503470120;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1377;28009119;Lisboa;Lisboa;504079190;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1378;28009119;Lisboa;Lisboa;504150014;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1379;28009119;Lisboa;Lisboa;504272179;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1380;28009119;Lisboa;Lisboa;504551221;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1381;28009119;Lisboa;Lisboa;504857312;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1382;28009119;Lisboa;Lisboa;505107546;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1383;28009119;Lisboa;Lisboa;505116812;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1384;28009119;Lisboa;Lisboa;505128985;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1385;28009119;Lisboa;Lisboa;505205939;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1386;28009119;Lisboa;Lisboa;505377691;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1387;28009119;Lisboa;Lisboa;506204650;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1388;28009119;Lisboa;Lisboa;506360237;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1389;28009119;Lisboa;Lisboa;506396010;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1390;28009119;Lisboa;Lisboa;507117336;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1391;28009119;Lisboa;Lisboa;507246152;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1392;28009119;Lisboa;Lisboa;507431073;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1393;28009119;Lisboa;Lisboa;507969332;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1394;28009119;Lisboa;Lisboa;508069491;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1395;28009119;Lisboa;Lisboa;508123585;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1396;28009119;Lisboa;Lisboa;508202531;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1397;28009119;Lisboa;Lisboa;508453488;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1398;28009119;Lisboa;Lisboa;508823617;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1399;28009119;Lisboa;Lisboa;508966752;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1400;28009119;Lisboa;Lisboa;509364730;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1401;28009119;Lisboa;Lisboa;510070833;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1402;28009119;Lisboa;Lisboa;510303811;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1403;28009119;Lisboa;Lisboa;510722920;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1404;28009119;Lisboa;Lisboa;510830536;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1405;28009119;Lisboa;Lisboa;510852254;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1406;28009119;Lisboa;Lisboa;513063145;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1407;28009119;Lisboa;Lisboa;513418210;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1408;28009119;Lisboa;Lisboa;514139927;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1409;28009119;Lisboa;Lisboa;980540488;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1410;28009119;Lisboa;Lisboa;980595304;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1411;28009119;Lisboa;Miraflores;503882887;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1412;28009119;Lisboa;Miraflores;507678672;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1413;28009119;Lisboa;Odivelas;505187299;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1414;28009119;Lisboa;Pontinha;503670693;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1415;28009119;Lisboa;Porto Salvo;502186771;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1416;28009119;Lisboa;Porto Salvo;504727060;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1417;28009119;Lisboa;Porto Salvo;504761013;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1418;28009119;Lisboa;Porto Salvo;510480209;2800;Universidade Lusófona de Humanidades e Tecnologias; ;Privado;Universitario;;28009119
+1419;21009186;Lisboa;Amadora;501551557;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1420;21009186;Lisboa;Amadora;503222364;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1421;21009186;Lisboa;Amadora;506176142;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1422;21009186;Lisboa;Carnaxide;505350173;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1423;21009186;Lisboa;Carnaxide;510728189;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1424;21009186;Lisboa;Linhó;502479418;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1425;21009186;Lisboa;Linhó;503502537;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1426;21009186;Lisboa;Linhó;503541320;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1427;21009186;Lisboa;Lisboa;500068801;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1428;21009186;Lisboa;Lisboa;500074372;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1429;21009186;Lisboa;Lisboa;500366039;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1430;21009186;Lisboa;Lisboa;501774360;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1431;21009186;Lisboa;Lisboa;502443855;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1432;21009186;Lisboa;Lisboa;502829257;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1433;21009186;Lisboa;Lisboa;502980826;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1434;21009186;Lisboa;Lisboa;503412031;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1435;21009186;Lisboa;Lisboa;503470120;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1436;21009186;Lisboa;Lisboa;504079190;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1437;21009186;Lisboa;Lisboa;504150014;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1438;21009186;Lisboa;Lisboa;504272179;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1439;21009186;Lisboa;Lisboa;504551221;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1440;21009186;Lisboa;Lisboa;504857312;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1441;21009186;Lisboa;Lisboa;505107546;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1442;21009186;Lisboa;Lisboa;505116812;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1443;21009186;Lisboa;Lisboa;505128985;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1444;21009186;Lisboa;Lisboa;505205939;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1445;21009186;Lisboa;Lisboa;505377691;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1446;21009186;Lisboa;Lisboa;506204650;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1447;21009186;Lisboa;Lisboa;506360237;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1448;21009186;Lisboa;Lisboa;506396010;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1449;21009186;Lisboa;Lisboa;507117336;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1450;21009186;Lisboa;Lisboa;507246152;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1451;21009186;Lisboa;Lisboa;507431073;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1452;21009186;Lisboa;Lisboa;507969332;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1453;21009186;Lisboa;Lisboa;508069491;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1454;21009186;Lisboa;Lisboa;508123585;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1455;21009186;Lisboa;Lisboa;508202531;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1456;21009186;Lisboa;Lisboa;508453488;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1457;21009186;Lisboa;Lisboa;508823617;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1458;21009186;Lisboa;Lisboa;508966752;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1459;21009186;Lisboa;Lisboa;509364730;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1460;21009186;Lisboa;Lisboa;510070833;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1461;21009186;Lisboa;Lisboa;510303811;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1462;21009186;Lisboa;Lisboa;510722920;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1463;21009186;Lisboa;Lisboa;510830536;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1464;21009186;Lisboa;Lisboa;510852254;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1465;21009186;Lisboa;Lisboa;513063145;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1466;21009186;Lisboa;Lisboa;513418210;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1467;21009186;Lisboa;Lisboa;514139927;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1468;21009186;Lisboa;Lisboa;980540488;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1469;21009186;Lisboa;Lisboa;980595304;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1470;21009186;Lisboa;Miraflores;503882887;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1471;21009186;Lisboa;Miraflores;507678672;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1472;21009186;Lisboa;Odivelas;505187299;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1473;21009186;Lisboa;Pontinha;503670693;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1474;21009186;Lisboa;Porto Salvo;502186771;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1475;21009186;Lisboa;Porto Salvo;504727060;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1476;21009186;Lisboa;Porto Salvo;504761013;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
+1477;21009186;Lisboa;Porto Salvo;510480209;2100;Universidade Autónoma de Lisboa Luís de Camões; ;Privado;Universitario;;21009186
